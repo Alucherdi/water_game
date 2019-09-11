@@ -1,0 +1,9 @@
+class Input {
+    touchStarted() {
+
+    }
+
+    touchEnded() {
+        
+    }
+}
